@@ -30,25 +30,25 @@
     <AppXManifest Include="C:\Users\Gaura\source\repos\CanadianHolidays\Holidays\Holidays\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2023-06-12T01:07:05.305</Modified>
+      <Modified>2023-06-12T04:04:13.148</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
     <AppxPackagedFile Include="C:\Users\Gaura\source\repos\CanadianHolidays\Holidays\Holidays\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\resources.pri">
       <PackagePath>resources.pri</PackagePath>
-      <Modified>2023-06-12T01:04:53.762</Modified>
+      <Modified>2023-06-12T03:41:48.146</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Gaura\source\repos\CanadianHolidays\Holidays\Holidays\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\Holidays.runtimeconfig.json">
       <PackagePath>Holidays.runtimeconfig.json</PackagePath>
-      <Modified>2023-06-11T23:28:03.186</Modified>
+      <Modified>2023-06-12T03:41:47.681</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Gaura\source\repos\CanadianHolidays\Holidays\Holidays\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\Holidays.dll">
       <PackagePath>Holidays.dll</PackagePath>
-      <Modified>2023-06-12T01:07:03.758</Modified>
+      <Modified>2023-06-12T04:04:10.539</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Gaura\source\repos\CanadianHolidays\Holidays\Holidays\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\apphost.exe">
       <PackagePath>Holidays.exe</PackagePath>
-      <Modified>2023-06-12T01:07:03.791</Modified>
+      <Modified>2023-06-12T04:04:10.645</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Gaura\.nuget\packages\microsoft.netcore.app.runtime.win-x64\6.0.11\runtimes\win-x64\lib\net6.0\Microsoft.CSharp.dll">
       <PackagePath>Microsoft.CSharp.dll</PackagePath>
@@ -1064,7 +1064,7 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Gaura\source\repos\CanadianHolidays\Holidays\Holidays\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\Holidays.deps.json">
       <PackagePath>Holidays.deps.json</PackagePath>
-      <Modified>2023-06-12T01:07:05.043</Modified>
+      <Modified>2023-06-12T04:04:12.676</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Gaura\.nuget\packages\microsoft.maui.controls.ref.win\6.0.547\ref\net6.0-windows10.0.19041\Microsoft.Maui.Controls.Compatibility.pri">
       <PackagePath>Microsoft.Maui.Controls.Compatibility.pri</PackagePath>
@@ -1084,23 +1084,23 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Gaura\source\repos\CanadianHolidays\Holidays\Holidays\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-100.png">
       <PackagePath>splashSplashScreen.scale-100.png</PackagePath>
-      <Modified>2023-06-11T23:23:24.478</Modified>
+      <Modified>2023-06-12T03:41:42.661</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Gaura\source\repos\CanadianHolidays\Holidays\Holidays\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-125.png">
       <PackagePath>splashSplashScreen.scale-125.png</PackagePath>
-      <Modified>2023-06-11T23:23:24.492</Modified>
+      <Modified>2023-06-12T03:41:42.692</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Gaura\source\repos\CanadianHolidays\Holidays\Holidays\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-150.png">
       <PackagePath>splashSplashScreen.scale-150.png</PackagePath>
-      <Modified>2023-06-11T23:23:24.511</Modified>
+      <Modified>2023-06-12T03:41:42.751</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Gaura\source\repos\CanadianHolidays\Holidays\Holidays\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-200.png">
       <PackagePath>splashSplashScreen.scale-200.png</PackagePath>
-      <Modified>2023-06-11T23:23:24.536</Modified>
+      <Modified>2023-06-12T03:41:42.811</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Gaura\source\repos\CanadianHolidays\Holidays\Holidays\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-400.png">
       <PackagePath>splashSplashScreen.scale-400.png</PackagePath>
-      <Modified>2023-06-11T23:23:24.641</Modified>
+      <Modified>2023-06-12T03:41:43.074</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Gaura\source\repos\CanadianHolidays\Holidays\Holidays\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\f\OpenSans-Regular.ttf">
       <PackagePath>OpenSans-Regular.ttf</PackagePath>
@@ -1112,207 +1112,207 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Gaura\source\repos\CanadianHolidays\Holidays\Holidays\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appicon.ico">
       <PackagePath>appicon.ico</PackagePath>
-      <Modified>2023-06-11T23:23:24.681</Modified>
+      <Modified>2023-06-12T03:41:43.218</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Gaura\source\repos\CanadianHolidays\Holidays\Holidays\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-100.png">
       <PackagePath>appiconLargeTile.scale-100.png</PackagePath>
-      <Modified>2023-06-11T23:23:24.923</Modified>
+      <Modified>2023-06-12T03:41:43.832</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Gaura\source\repos\CanadianHolidays\Holidays\Holidays\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-125.png">
       <PackagePath>appiconLargeTile.scale-125.png</PackagePath>
-      <Modified>2023-06-11T23:23:24.933</Modified>
+      <Modified>2023-06-12T03:41:43.861</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Gaura\source\repos\CanadianHolidays\Holidays\Holidays\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-150.png">
       <PackagePath>appiconLargeTile.scale-150.png</PackagePath>
-      <Modified>2023-06-11T23:23:24.942</Modified>
+      <Modified>2023-06-12T03:41:43.888</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Gaura\source\repos\CanadianHolidays\Holidays\Holidays\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-200.png">
       <PackagePath>appiconLargeTile.scale-200.png</PackagePath>
-      <Modified>2023-06-11T23:23:24.956</Modified>
+      <Modified>2023-06-12T03:41:43.935</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Gaura\source\repos\CanadianHolidays\Holidays\Holidays\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-400.png">
       <PackagePath>appiconLargeTile.scale-400.png</PackagePath>
-      <Modified>2023-06-11T23:23:25.013</Modified>
+      <Modified>2023-06-12T03:41:44.105</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Gaura\source\repos\CanadianHolidays\Holidays\Holidays\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-16.png">
       <PackagePath>appiconLogo.altform-lightunplated_targetsize-16.png</PackagePath>
-      <Modified>2023-06-11T23:23:24.757</Modified>
+      <Modified>2023-06-12T03:41:43.382</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Gaura\source\repos\CanadianHolidays\Holidays\Holidays\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-24.png">
       <PackagePath>appiconLogo.altform-lightunplated_targetsize-24.png</PackagePath>
-      <Modified>2023-06-11T23:23:24.760</Modified>
+      <Modified>2023-06-12T03:41:43.388</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Gaura\source\repos\CanadianHolidays\Holidays\Holidays\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-256.png">
       <PackagePath>appiconLogo.altform-lightunplated_targetsize-256.png</PackagePath>
-      <Modified>2023-06-11T23:23:24.776</Modified>
+      <Modified>2023-06-12T03:41:43.421</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Gaura\source\repos\CanadianHolidays\Holidays\Holidays\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-32.png">
       <PackagePath>appiconLogo.altform-lightunplated_targetsize-32.png</PackagePath>
-      <Modified>2023-06-11T23:23:24.763</Modified>
+      <Modified>2023-06-12T03:41:43.396</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Gaura\source\repos\CanadianHolidays\Holidays\Holidays\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-48.png">
       <PackagePath>appiconLogo.altform-lightunplated_targetsize-48.png</PackagePath>
-      <Modified>2023-06-11T23:23:24.766</Modified>
+      <Modified>2023-06-12T03:41:43.403</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Gaura\source\repos\CanadianHolidays\Holidays\Holidays\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-16.png">
       <PackagePath>appiconLogo.altform-unplated_targetsize-16.png</PackagePath>
-      <Modified>2023-06-11T23:23:24.738</Modified>
+      <Modified>2023-06-12T03:41:43.336</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Gaura\source\repos\CanadianHolidays\Holidays\Holidays\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-24.png">
       <PackagePath>appiconLogo.altform-unplated_targetsize-24.png</PackagePath>
-      <Modified>2023-06-11T23:23:24.741</Modified>
+      <Modified>2023-06-12T03:41:43.343</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Gaura\source\repos\CanadianHolidays\Holidays\Holidays\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-256.png">
       <PackagePath>appiconLogo.altform-unplated_targetsize-256.png</PackagePath>
-      <Modified>2023-06-11T23:23:24.754</Modified>
+      <Modified>2023-06-12T03:41:43.373</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Gaura\source\repos\CanadianHolidays\Holidays\Holidays\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-32.png">
       <PackagePath>appiconLogo.altform-unplated_targetsize-32.png</PackagePath>
-      <Modified>2023-06-11T23:23:24.744</Modified>
+      <Modified>2023-06-12T03:41:43.352</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Gaura\source\repos\CanadianHolidays\Holidays\Holidays\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-48.png">
       <PackagePath>appiconLogo.altform-unplated_targetsize-48.png</PackagePath>
-      <Modified>2023-06-11T23:23:24.748</Modified>
+      <Modified>2023-06-12T03:41:43.358</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Gaura\source\repos\CanadianHolidays\Holidays\Holidays\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-100.png">
       <PackagePath>appiconLogo.scale-100.png</PackagePath>
-      <Modified>2023-06-11T23:23:24.695</Modified>
+      <Modified>2023-06-12T03:41:43.243</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Gaura\source\repos\CanadianHolidays\Holidays\Holidays\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-125.png">
       <PackagePath>appiconLogo.scale-125.png</PackagePath>
-      <Modified>2023-06-11T23:23:24.699</Modified>
+      <Modified>2023-06-12T03:41:43.251</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Gaura\source\repos\CanadianHolidays\Holidays\Holidays\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-150.png">
       <PackagePath>appiconLogo.scale-150.png</PackagePath>
-      <Modified>2023-06-11T23:23:24.703</Modified>
+      <Modified>2023-06-12T03:41:43.261</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Gaura\source\repos\CanadianHolidays\Holidays\Holidays\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-200.png">
       <PackagePath>appiconLogo.scale-200.png</PackagePath>
-      <Modified>2023-06-11T23:23:24.708</Modified>
+      <Modified>2023-06-12T03:41:43.268</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Gaura\source\repos\CanadianHolidays\Holidays\Holidays\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-400.png">
       <PackagePath>appiconLogo.scale-400.png</PackagePath>
-      <Modified>2023-06-11T23:23:24.712</Modified>
+      <Modified>2023-06-12T03:41:43.281</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Gaura\source\repos\CanadianHolidays\Holidays\Holidays\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-16.png">
       <PackagePath>appiconLogo.targetsize-16.png</PackagePath>
-      <Modified>2023-06-11T23:23:24.718</Modified>
+      <Modified>2023-06-12T03:41:43.287</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Gaura\source\repos\CanadianHolidays\Holidays\Holidays\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-24.png">
       <PackagePath>appiconLogo.targetsize-24.png</PackagePath>
-      <Modified>2023-06-11T23:23:24.721</Modified>
+      <Modified>2023-06-12T03:41:43.295</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Gaura\source\repos\CanadianHolidays\Holidays\Holidays\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-256.png">
       <PackagePath>appiconLogo.targetsize-256.png</PackagePath>
-      <Modified>2023-06-11T23:23:24.735</Modified>
+      <Modified>2023-06-12T03:41:43.329</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Gaura\source\repos\CanadianHolidays\Holidays\Holidays\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-32.png">
       <PackagePath>appiconLogo.targetsize-32.png</PackagePath>
-      <Modified>2023-06-11T23:23:24.723</Modified>
+      <Modified>2023-06-12T03:41:43.301</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Gaura\source\repos\CanadianHolidays\Holidays\Holidays\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-48.png">
       <PackagePath>appiconLogo.targetsize-48.png</PackagePath>
-      <Modified>2023-06-11T23:23:24.728</Modified>
+      <Modified>2023-06-12T03:41:43.309</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Gaura\source\repos\CanadianHolidays\Holidays\Holidays\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-100.png">
       <PackagePath>appiconMediumTile.scale-100.png</PackagePath>
-      <Modified>2023-06-11T23:23:24.819</Modified>
+      <Modified>2023-06-12T03:41:43.537</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Gaura\source\repos\CanadianHolidays\Holidays\Holidays\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-125.png">
       <PackagePath>appiconMediumTile.scale-125.png</PackagePath>
-      <Modified>2023-06-11T23:23:24.824</Modified>
+      <Modified>2023-06-12T03:41:43.551</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Gaura\source\repos\CanadianHolidays\Holidays\Holidays\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-150.png">
       <PackagePath>appiconMediumTile.scale-150.png</PackagePath>
-      <Modified>2023-06-11T23:23:24.831</Modified>
+      <Modified>2023-06-12T03:41:43.565</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Gaura\source\repos\CanadianHolidays\Holidays\Holidays\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-200.png">
       <PackagePath>appiconMediumTile.scale-200.png</PackagePath>
-      <Modified>2023-06-11T23:23:24.838</Modified>
+      <Modified>2023-06-12T03:41:43.582</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Gaura\source\repos\CanadianHolidays\Holidays\Holidays\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-400.png">
       <PackagePath>appiconMediumTile.scale-400.png</PackagePath>
-      <Modified>2023-06-11T23:23:24.852</Modified>
+      <Modified>2023-06-12T03:41:43.625</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Gaura\source\repos\CanadianHolidays\Holidays\Holidays\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-100.png">
       <PackagePath>appiconSmallTile.scale-100.png</PackagePath>
-      <Modified>2023-06-11T23:23:24.797</Modified>
+      <Modified>2023-06-12T03:41:43.475</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Gaura\source\repos\CanadianHolidays\Holidays\Holidays\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-125.png">
       <PackagePath>appiconSmallTile.scale-125.png</PackagePath>
-      <Modified>2023-06-11T23:23:24.801</Modified>
+      <Modified>2023-06-12T03:41:43.483</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Gaura\source\repos\CanadianHolidays\Holidays\Holidays\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-150.png">
       <PackagePath>appiconSmallTile.scale-150.png</PackagePath>
-      <Modified>2023-06-11T23:23:24.804</Modified>
+      <Modified>2023-06-12T03:41:43.493</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Gaura\source\repos\CanadianHolidays\Holidays\Holidays\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-200.png">
       <PackagePath>appiconSmallTile.scale-200.png</PackagePath>
-      <Modified>2023-06-11T23:23:24.809</Modified>
+      <Modified>2023-06-12T03:41:43.503</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Gaura\source\repos\CanadianHolidays\Holidays\Holidays\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-400.png">
       <PackagePath>appiconSmallTile.scale-400.png</PackagePath>
-      <Modified>2023-06-11T23:23:24.815</Modified>
+      <Modified>2023-06-12T03:41:43.526</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Gaura\source\repos\CanadianHolidays\Holidays\Holidays\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-100.png">
       <PackagePath>appiconStoreLogo.scale-100.png</PackagePath>
-      <Modified>2023-06-11T23:23:24.779</Modified>
+      <Modified>2023-06-12T03:41:43.429</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Gaura\source\repos\CanadianHolidays\Holidays\Holidays\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-125.png">
       <PackagePath>appiconStoreLogo.scale-125.png</PackagePath>
-      <Modified>2023-06-11T23:23:24.782</Modified>
+      <Modified>2023-06-12T03:41:43.437</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Gaura\source\repos\CanadianHolidays\Holidays\Holidays\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-150.png">
       <PackagePath>appiconStoreLogo.scale-150.png</PackagePath>
-      <Modified>2023-06-11T23:23:24.785</Modified>
+      <Modified>2023-06-12T03:41:43.444</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Gaura\source\repos\CanadianHolidays\Holidays\Holidays\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-200.png">
       <PackagePath>appiconStoreLogo.scale-200.png</PackagePath>
-      <Modified>2023-06-11T23:23:24.788</Modified>
+      <Modified>2023-06-12T03:41:43.454</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Gaura\source\repos\CanadianHolidays\Holidays\Holidays\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-400.png">
       <PackagePath>appiconStoreLogo.scale-400.png</PackagePath>
-      <Modified>2023-06-11T23:23:24.794</Modified>
+      <Modified>2023-06-12T03:41:43.468</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Gaura\source\repos\CanadianHolidays\Holidays\Holidays\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-100.png">
       <PackagePath>appiconWideTile.scale-100.png</PackagePath>
-      <Modified>2023-06-11T23:23:24.859</Modified>
+      <Modified>2023-06-12T03:41:43.639</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Gaura\source\repos\CanadianHolidays\Holidays\Holidays\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-125.png">
       <PackagePath>appiconWideTile.scale-125.png</PackagePath>
-      <Modified>2023-06-11T23:23:24.866</Modified>
+      <Modified>2023-06-12T03:41:43.655</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Gaura\source\repos\CanadianHolidays\Holidays\Holidays\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-150.png">
       <PackagePath>appiconWideTile.scale-150.png</PackagePath>
-      <Modified>2023-06-11T23:23:24.875</Modified>
+      <Modified>2023-06-12T03:41:43.686</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Gaura\source\repos\CanadianHolidays\Holidays\Holidays\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-200.png">
       <PackagePath>appiconWideTile.scale-200.png</PackagePath>
-      <Modified>2023-06-11T23:23:24.885</Modified>
+      <Modified>2023-06-12T03:41:43.719</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Gaura\source\repos\CanadianHolidays\Holidays\Holidays\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-400.png">
       <PackagePath>appiconWideTile.scale-400.png</PackagePath>
-      <Modified>2023-06-11T23:23:24.914</Modified>
+      <Modified>2023-06-12T03:41:43.810</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Gaura\source\repos\CanadianHolidays\Holidays\Holidays\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-100.png">
       <PackagePath>dotnet_bot.scale-100.png</PackagePath>
-      <Modified>2023-06-11T23:23:24.722</Modified>
+      <Modified>2023-06-12T03:41:43.291</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Gaura\source\repos\CanadianHolidays\Holidays\Holidays\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-125.png">
       <PackagePath>dotnet_bot.scale-125.png</PackagePath>
-      <Modified>2023-06-11T23:23:24.732</Modified>
+      <Modified>2023-06-12T03:41:43.317</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Gaura\source\repos\CanadianHolidays\Holidays\Holidays\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-150.png">
       <PackagePath>dotnet_bot.scale-150.png</PackagePath>
-      <Modified>2023-06-11T23:23:24.744</Modified>
+      <Modified>2023-06-12T03:41:43.349</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Gaura\source\repos\CanadianHolidays\Holidays\Holidays\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-200.png">
       <PackagePath>dotnet_bot.scale-200.png</PackagePath>
-      <Modified>2023-06-11T23:23:24.761</Modified>
+      <Modified>2023-06-12T03:41:43.401</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Gaura\source\repos\CanadianHolidays\Holidays\Holidays\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-400.png">
       <PackagePath>dotnet_bot.scale-400.png</PackagePath>
-      <Modified>2023-06-11T23:23:24.805</Modified>
+      <Modified>2023-06-12T03:41:43.517</Modified>
     </AppxPackagedFile>
   </ItemGroup>
   <ItemGroup>

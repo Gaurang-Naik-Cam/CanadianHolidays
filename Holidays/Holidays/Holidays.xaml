@@ -4,7 +4,8 @@
              x:Class="Holidays.Holidays"
              Title="Holidays">
     <ScrollView>
-    <VerticalStackLayout VerticalOptions="Fill">
+   <!--<HorizontalStackLayout >-->
+    <VerticalStackLayout VerticalOptions="Fill" HorizontalOptions="Fill">
         <Picker
             x:Name="pcrYear"
             Title="Select Year" TitleColor="WhiteSmoke" VerticalOptions="Center" HorizontalOptions="Center">
@@ -50,16 +51,55 @@
                 </x:Array>
             </Picker.ItemsSource>
         </Picker>
-        <Button
+            <Button
             x:Name="btnGetHolidays"
             Text="Get Holidays"
             HorizontalOptions="Center"
             VerticalOptions="Center"
                 Clicked="btnGetHolidays_Clicked" />
-        <ListView 
-            x:Name="lstvwData">
-            
-        </ListView>
-    </VerticalStackLayout>
+            <HorizontalStackLayout VerticalOptions="Fill" HorizontalOptions="Fill">
+                <ListView 
+                x:Name="lstvwData"
+                    RowHeight="100"
+                    SeparatorColor="Gray">
+                    <ListView.ItemTemplate>
+                        <DataTemplate>
+                            <ViewCell>
+                                <Grid Padding="10">
+                                    <!--<Grid.RowDefinitions>
+                                        <RowDefinition Height="Auto" />
+                                        <RowDefinition Height="Auto" />
+                                    </Grid.RowDefinitions>
+                                    <Grid.ColumnDefinitions>
+                                        <ColumnDefinition Width="Auto" />
+                                        <ColumnDefinition Width="Auto" />
+                                    </Grid.ColumnDefinitions>-->
+                                    <Label Grid.Column="1"
+                                        Text="{Binding id}"
+                                        FontAttributes="Bold" />
+                                    <Label Grid.Column="2"
+                                        Text="{Binding nameEn}"
+                                        FontAttributes="Bold" />
+                                    <Label Grid.Column="3"
+                                        Text="{Binding nameFr}"
+                                        FontAttributes="Bold" />
+                                    <Label Grid.Column="4"
+                                        Text="{Binding date}"
+                                        FontAttributes="Bold" />
+                                    <Label Grid.Column="5"
+                                        Text="{Binding federal}"
+                                        FontAttributes="Bold" />
+                                    <Label Grid.Column="6"
+                                        Text="{Binding observedDate}"
+                                        FontAttributes="Bold" />
+                                </Grid>
+                            </ViewCell>
+                        </DataTemplate>
+                    </ListView.ItemTemplate>
+                </ListView>
+            </HorizontalStackLayout>
+        </VerticalStackLayout>
+    
+        <!--</HorizontalStackLayout>-->
     </ScrollView>
 </ContentPage>
