@@ -9,5 +9,11 @@ namespace Holidays.Models
     public class Root
     {
         public List<Holiday> holidays { get; set; }
+
+        public Root()
+        {
+            holidays = new List<Holiday>();
+            
+        }
     }
 }

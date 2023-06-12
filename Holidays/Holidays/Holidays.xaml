@@ -3,10 +3,63 @@
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              x:Class="Holidays.Holidays"
              Title="Holidays">
-    <VerticalStackLayout>
+    <ScrollView>
+    <VerticalStackLayout VerticalOptions="Fill">
         <Picker
             x:Name="pcrYear"
-            Title="Select Year" TitleColor="Gray"></Picker>
-       
+            Title="Select Year" TitleColor="WhiteSmoke" VerticalOptions="Center" HorizontalOptions="Center">
+            <Picker.ItemsSource>
+                <x:Array Type="{x:Type x:String}">
+                <x:String>2010</x:String>
+                    <x:String>2010</x:String>
+                    <x:String>2011</x:String>
+                    <x:String>2012</x:String>
+                    <x:String>2013</x:String>
+                    <x:String>2014</x:String>
+                    <x:String>2015</x:String>
+                    <x:String>2016</x:String>
+                    <x:String>2017</x:String>
+                    <x:String>2018</x:String>
+                    <x:String>2019</x:String>
+                    <x:String>2020</x:String>
+                    <x:String>2021</x:String>
+                    <x:String>2022</x:String>
+                    <x:String>2023</x:String>
+            </x:Array>
+            </Picker.ItemsSource> 
+        </Picker>
+        <Picker
+            x:Name="pcrProvince"
+            Title="Select Year" TitleColor="WhiteSmoke" VerticalOptions="Center" HorizontalOptions="Center">
+            <Picker.ItemsSource>
+                <x:Array Type="{x:Type x:String}">
+                    <x:String>All</x:String>
+                    <x:String>Alberta</x:String>
+                    <x:String>British Columbia</x:String>
+                    <x:String>Manitoba</x:String>
+                    <x:String>New Brunswick</x:String>
+                    <x:String>Newfoundland and Labrador</x:String>
+                    <x:String>Northwest Territories</x:String>
+                    <x:String>Nova Scotia</x:String>
+                    <x:String>Nunavut</x:String>
+                    <x:String>Ontario</x:String>
+                    <x:String>Prince Edward Island</x:String>
+                    <x:String>Quebec</x:String>
+                    <x:String>Saskatchewan</x:String>
+                    <x:String>Yukon</x:String>
+                </x:Array>
+            </Picker.ItemsSource>
+        </Picker>
+        <Button
+            x:Name="btnGetHolidays"
+            Text="Get Holidays"
+            HorizontalOptions="Center"
+            VerticalOptions="Center"
+                Clicked="btnGetHolidays_Clicked" />
+        <ListView 
+            x:Name="lstvwData">
+            
+        </ListView>
     </VerticalStackLayout>
+    </ScrollView>
 </ContentPage>
