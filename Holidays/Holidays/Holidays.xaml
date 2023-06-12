@@ -2,11 +2,12 @@
 <ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              x:Class="Holidays.Holidays"
+             xmlns:Model="clr-namespace:Holidays.Models"
              Title="Holidays">
     <ScrollView>
    <!--<HorizontalStackLayout >-->
-    <VerticalStackLayout VerticalOptions="Fill" HorizontalOptions="Fill">
-        <Picker
+        <VerticalStackLayout VerticalOptions="Fill" HorizontalOptions="Fill">
+            <Picker
             x:Name="pcrYear"
             Title="Select Year" TitleColor="WhiteSmoke" VerticalOptions="Center" HorizontalOptions="Center">
             <Picker.ItemsSource>
@@ -58,22 +59,61 @@
             VerticalOptions="Center"
                 Clicked="btnGetHolidays_Clicked" />
             <HorizontalStackLayout VerticalOptions="Fill" HorizontalOptions="Fill">
-                <ListView 
-                x:Name="lstvwData"
-                    RowHeight="100"
-                    SeparatorColor="Gray">
+                   <CollectionView x:Name="lstvwData">
+                    <CollectionView.ItemTemplate>
+                        <DataTemplate x:DataType="Model:Holiday">
+                            <HorizontalStackLayout Padding="10">
+                                <Label VerticalOptions="Center" HorizontalOptions="Center"
+                                        Text="{Binding id}"
+                                        FontAttributes="Bold"
+                                       WidthRequest="60"/>
+                                <Label VerticalOptions="Center" HorizontalOptions="Center"
+                                        Text="{Binding nameEn}"
+                                        FontAttributes="Bold" 
+                                        WidthRequest="60"/>
+                                <Label VerticalOptions="Center" HorizontalOptions="Center"
+                                        Text="{Binding nameFr}"
+                                        FontAttributes="Bold"
+                                         WidthRequest="60"/>
+                                <Label VerticalOptions="Center" HorizontalOptions="Center"
+                                        Text="{Binding date}"
+                                        FontAttributes="Bold"
+                                         WidthRequest="60"/>
+                                <Label VerticalOptions="Center" HorizontalOptions="Center"
+                                        Text="{Binding federal}"
+                                        FontAttributes="Bold"
+                                         WidthRequest="60"/>
+                                <Label VerticalOptions="Center" HorizontalOptions="Center"
+                                        Text="{Binding observedDate}"
+                                        FontAttributes="Bold"
+                                         WidthRequest="60"/>
+
+                            </HorizontalStackLayout>
+                                   
+                                   
+                               
+                        </DataTemplate>
+                    </CollectionView.ItemTemplate>
+                </CollectionView>
+                <!--<ListView 
+                x:Name="lstvwData">
                     <ListView.ItemTemplate>
                         <DataTemplate>
                             <ViewCell>
-                                <Grid Padding="10">
-                                    <!--<Grid.RowDefinitions>
+                                <Grid Padding="5">
+                                    <Grid.RowDefinitions>
                                         <RowDefinition Height="Auto" />
                                         <RowDefinition Height="Auto" />
                                     </Grid.RowDefinitions>
                                     <Grid.ColumnDefinitions>
                                         <ColumnDefinition Width="Auto" />
                                         <ColumnDefinition Width="Auto" />
-                                    </Grid.ColumnDefinitions>-->
+                                        <ColumnDefinition Width="Auto" />
+                                        <ColumnDefinition Width="Auto" />
+                                        <ColumnDefinition Width="Auto" />
+                                        <ColumnDefinition Width="Auto" />
+                                        
+                                    </Grid.ColumnDefinitions>
                                     <Label Grid.Column="1"
                                         Text="{Binding id}"
                                         FontAttributes="Bold" />
@@ -96,7 +136,8 @@
                             </ViewCell>
                         </DataTemplate>
                     </ListView.ItemTemplate>
-                </ListView>
+                </ListView>-->
+                
             </HorizontalStackLayout>
         </VerticalStackLayout>
     

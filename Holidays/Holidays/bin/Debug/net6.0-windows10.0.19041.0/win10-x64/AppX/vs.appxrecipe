@@ -30,13 +30,13 @@
     <AppXManifest Include="C:\Users\Gaura\source\repos\CanadianHolidays\Holidays\Holidays\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2023-06-12T04:04:13.148</Modified>
+      <Modified>2023-06-12T23:00:35.398</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
     <AppxPackagedFile Include="C:\Users\Gaura\source\repos\CanadianHolidays\Holidays\Holidays\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\resources.pri">
       <PackagePath>resources.pri</PackagePath>
-      <Modified>2023-06-12T03:41:48.146</Modified>
+      <Modified>2023-06-12T13:51:26.357</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Gaura\source\repos\CanadianHolidays\Holidays\Holidays\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\Holidays.runtimeconfig.json">
       <PackagePath>Holidays.runtimeconfig.json</PackagePath>
@@ -44,11 +44,11 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Gaura\source\repos\CanadianHolidays\Holidays\Holidays\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\Holidays.dll">
       <PackagePath>Holidays.dll</PackagePath>
-      <Modified>2023-06-12T04:04:10.539</Modified>
+      <Modified>2023-06-12T23:00:33.760</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Gaura\source\repos\CanadianHolidays\Holidays\Holidays\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\apphost.exe">
       <PackagePath>Holidays.exe</PackagePath>
-      <Modified>2023-06-12T04:04:10.645</Modified>
+      <Modified>2023-06-12T23:00:33.826</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Gaura\.nuget\packages\microsoft.netcore.app.runtime.win-x64\6.0.11\runtimes\win-x64\lib\net6.0\Microsoft.CSharp.dll">
       <PackagePath>Microsoft.CSharp.dll</PackagePath>
@@ -1064,7 +1064,7 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Gaura\source\repos\CanadianHolidays\Holidays\Holidays\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\Holidays.deps.json">
       <PackagePath>Holidays.deps.json</PackagePath>
-      <Modified>2023-06-12T04:04:12.676</Modified>
+      <Modified>2023-06-12T23:00:35.120</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Gaura\.nuget\packages\microsoft.maui.controls.ref.win\6.0.547\ref\net6.0-windows10.0.19041\Microsoft.Maui.Controls.Compatibility.pri">
       <PackagePath>Microsoft.Maui.Controls.Compatibility.pri</PackagePath>
